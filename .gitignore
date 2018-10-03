@@ -104,15 +104,15 @@ venv.bak/
 
 
 # user ideas
-/.ideas
+/.idea
 
 # doc
-/docs/blog/
-/docs/docs/
+/docs/blog
+/docs/docs
 /docs/node_modules
 /docs/site_config
-/docs/src/
-/docs/utils/
+/docs/src
+/docs/utils
 /docs/.babelrc
 /docs/.docsite
 /docs/.eslintrc
