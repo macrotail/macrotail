@@ -104,22 +104,22 @@ venv.bak/
 
 
 # user ideas
-.idea
+/.ideas
 
 # doc
-doc/blog/
-doc/docs/
-doc/node_modules
-doc/site_config
-doc/src/
-doc/utils/
-doc/.babelrc
-doc/.docsite
-doc/.eslintrc
-doc/gulpfile.js
-doc/package.json
-doc/package-lock.json
-doc/README.md
-doc/redirect.ejs
-doc/template.ejs
-doc/webpack.config.js
+/docs/blog/
+/docs/docs/
+/docs/node_modules
+/docs/site_config
+/docs/src/
+/docs/utils/
+/docs/.babelrc
+/docs/.docsite
+/docs/.eslintrc
+/docs/gulpfile.js
+/docs/package.json
+/docs/package-lock.json
+/docs/README.md
+/docs/redirect.ejs
+/docs/template.ejs
+/docs/webpack.config.js
